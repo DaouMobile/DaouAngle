@@ -1,0 +1,6 @@
+use_frameworks!
+target 'DaouAngle_Tests' do
+  pod 'DaouAngle', :path => '../'
+  
+  
+end

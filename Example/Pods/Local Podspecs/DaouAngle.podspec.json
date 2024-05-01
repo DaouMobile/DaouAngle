@@ -1,0 +1,22 @@
+{
+  "name": "DaouAngle",
+  "version": "0.1.0",
+  "summary": "A short description of DaouAngle.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/vongvoro/DaouAngle",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "vongvoro": "vongvoro@daou.co.kr"
+  },
+  "source": {
+    "git": "https://github.com/vongvoro/DaouAngle.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "DaouAngle/Classes/**/*"
+}
