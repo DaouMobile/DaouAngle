@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'DaouAngle'
-  s.version          = '1.0.2'
+  s.version          = '1.0.3'
   s.summary          = 'DaouAngle'
 
   s.homepage         = 'https://github.com/DaouMobile/DaouAngle'
